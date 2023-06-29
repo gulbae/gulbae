@@ -1,6 +1,8 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minji%20Joo's%20GitHub&fontSize=55&animation=fadeIn)
+<div align="center"> 
 
+  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgulbae&count_bg=%23E6C2EF&title_bg=%23ACA7A7&icon=codeigniter.svg&icon_color=%23E6C2EF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ***
@@ -44,3 +46,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
