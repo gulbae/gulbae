@@ -14,7 +14,6 @@
 ![Spring Security 로고](https://img.shields.io/badge/Spring%20Security-6DB33F?style=round-square&logo=springsecurity&logoColor=white)
 ![Oracle 로고](https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=oracle&logoColor=white)
 ![Apache Tomcat 로고](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=round-square&logo=apachetomcat&logoColor=white)
-![Postman 로고](https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=postman&logoColor=white)
 
 ![JavaScript 로고](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=white)
 ![HTML5 로고](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white)
@@ -25,6 +24,7 @@
 
 ![Eclipse 로고](https://img.shields.io/badge/Eclipse-2C2255?style=round-square&logo=eclipseide&logoColor=white)
 ![Visual Studio Code 로고](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=round-square&logo=visualstudiocode&logoColor=white)
+![Postman 로고](https://img.shields.io/badge/Postman-FF6C37?style=round-square&logo=postman&logoColor=white)
 
 ![GitHub 로고](https://img.shields.io/badge/GitHub-181717?style=round-square&logo=github&logoColor=white)
 ![Notion 로고](https://img.shields.io/badge/Notion-181717?style=round-square&logo=notion&logoColor=white)
