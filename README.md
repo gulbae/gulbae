@@ -18,6 +18,7 @@
 ![JavaScript 로고](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=white)
 ![HTML5 로고](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white)
 ![CSS3 로고](https://img.shields.io/badge/CSS3-1572B6?style=round-square&logo=css3&logoColor=white)
+![jQuery 로고](https://img.shields.io/badge/jQuery-0769AD?style=round-square&logo=jquery&logoColor=white)
 ![Bootstrap 로고](https://img.shields.io/badge/Bootstrap-7952B3?style=round-square&logo=bootstrap&logoColor=white)
 ![Thymeleaf 로고](https://img.shields.io/badge/Thymeleaf-005F0F?style=round-square&logo=thymeleaf&logoColor=white)
 
