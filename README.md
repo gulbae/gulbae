@@ -13,7 +13,7 @@
 ![Spring Boot 로고](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=round-square&logo=springboot&logoColor=white)
 ![Spring Security 로고](https://img.shields.io/badge/Spring%20Security-6DB33F?style=round-square&logo=springsecurity&logoColor=white)
 ![Oracle 로고](https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=oracle&logoColor=white)
-![Apache Tomcat 로고](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=round-square&logo=apachetomcat&logoColor=white)
+![Apache Tomcat 로고](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=round-square&logo=apachetomcat&logoColor=black)
 
 ![JavaScript 로고](https://img.shields.io/badge/JavaScript-F7DF1E?style=round-square&logo=javascript&logoColor=white)
 ![HTML5 로고](https://img.shields.io/badge/HTML5-E34F26?style=round-square&logo=html5&logoColor=white)
