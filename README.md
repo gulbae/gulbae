@@ -1,9 +1,10 @@
 <div align="center"> 
   
+![header](https://capsule-render.vercel.app/api?type=waving&color=d9b3ff&height=250&section=header&text=Minji's%20Dev%20Repository&&fontColor=999999&fontSize=55&animation=fadeIn)
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Minji's%20Dev%20Repository&fontSize=55&animation=fadeIn)
+<br/>
 
-  
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgulbae&count_bg=%23E6C2EF&title_bg=%23ACA7A7&icon=codeigniter.svg&icon_color=%23E6C2EF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h1>📚 STACKS</h1>
@@ -36,6 +37,9 @@
 
 ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulbae&show_icons=true&theme=radical)
 
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=d9b3ff&height=100&section=footer)
 <!--
 
 https://dillinger.io/ 리드미 미리보기 링크
