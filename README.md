@@ -32,8 +32,7 @@
 ![Figma 로고](https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white)
 ***
 
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esw2782)](https://solved.ac/esw2782)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=esw2782)](https://solved.ac/esw2782/)
 
 ![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulbae&show_icons=true&theme=radical)
 
