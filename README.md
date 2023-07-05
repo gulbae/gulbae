@@ -35,6 +35,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=esw2782)](https://solved.ac/esw2782)
 
+![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulbae&show_icons=true&theme=radical)
+
 <!--
 
 https://dillinger.io/ 리드미 미리보기 링크
