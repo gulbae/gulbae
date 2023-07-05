@@ -32,6 +32,9 @@
 ![Figma 로고](https://img.shields.io/badge/Figma-F24E1E?style=round-square&logo=figma&logoColor=white)
 ***
 
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={esw2782})](https://solved.ac/{esw2782})
+
 <!--
 
 https://dillinger.io/ 리드미 미리보기 링크
